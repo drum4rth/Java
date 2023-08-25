@@ -26,14 +26,14 @@ public class TesteAtribuicaoVariaveis1 {
 		
 		// Exibição de variáveis
 		
-		System.out.println("g=" + g);
-		System.out.println("c=" + c);
-		System.out.println("b=" + b);
-		System.out.println("s=" + s);
-		System.out.println("i=" + i);
-		System.out.println("l=" + l);
-		System.out.println("f=" + f);
-		System.out.println("d=" + d);
+		System.out.println("g="+g);
+		System.out.println("c="+c);
+		System.out.println("b="+b);
+		System.out.println("s="+s);
+		System.out.println("i="+i);
+		System.out.println("l="+l);
+		System.out.println("f="+f);
+		System.out.println("d="+d);
 	
 		
 		

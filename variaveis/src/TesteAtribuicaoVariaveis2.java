@@ -1,5 +1,5 @@
 
-public class TesteAtribuicaoVariaveis1 {
+public class TesteAtribuicaoVariaveis2 {
 
 	public static void main(String[] args) {
 		// Variáveis
